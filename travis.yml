@@ -1,2 +1,3 @@
 language: C
 script: make hello && ./hello
+os: linux
