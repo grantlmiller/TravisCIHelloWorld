@@ -2,4 +2,3 @@ languague: c
 branches:
   only:
     - "master"
-  install:
