@@ -1,4 +1,2 @@
-languague: c
-branches:
-  only:
-    - "master"
+language: C
+script: make
