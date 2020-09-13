@@ -1,2 +1,4 @@
 language: C
-script: make hello
+script:
+  - make hello
+  - ./hello
